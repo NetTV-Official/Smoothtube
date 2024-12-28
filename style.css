@@ -1,0 +1,14 @@
+h1 {
+text-align: center 
+text-color: red
+}
+
+h3 {
+text-align: center
+text-color: black
+}
+body {
+    margin: 0; /* Remove default margin */
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fiseemonstas%2Fart%2FPixel-Landscape-693516935&psig=AOvVaw3gRstmYmK9NCIGq7JyBOSY&ust=1735475494666000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDirZe8yooDFQAAAAAdAAAAABAE") no-repeat center center fixed;
+    background-size: cover;
+}
